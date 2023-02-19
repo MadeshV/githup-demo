@@ -1,0 +1,7 @@
+int a = 1;
+int b = 3;
+system.out.println(a+b);
+system.out.print(a-b);
+system.out.print(a/b);
+system.out.print(a-b);
+system.out.print(a/b);
